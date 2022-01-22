@@ -1,3 +1,5 @@
+  [![HitCount](http://hits.dwyl.com/samitiz/car-price-prediction.svg?style=flat-square)](http://hits.dwyl.com/samitiz/car-price-prediction)
+  
 ### Hi I'm Usama Malook👋
 
 
