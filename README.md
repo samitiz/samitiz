@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitiz&label=Profile%20views&color=0e75b6&style=flat" alt="samitiz" /> </p>
   
-### Hi I'm Usama Malook👋
+# Hi I'm Usama Malook👋
 
 
 - 🔭 I’m currently working on eCommerce.
