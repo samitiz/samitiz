@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitiz&label=Profile%20views&color=0e75b6&style=flat" alt="samitiz" /> </p>
-  
+
+<p align="left"> <a href="https://twitter.com/usama_malook" target="blank"><img src="https://img.shields.io/twitter/follow/usama_malook?logo=twitter&style=for-the-badge" alt="usama_malook" /></a> </p>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Usama</h1>
 <h4 align="center">a BS-IT student having interest in Cyber Security & Competitive Programming
