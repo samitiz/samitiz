@@ -11,6 +11,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love hard Work :)
 
- <img src="https://github-readme-stats.vercel.app/api?username=samitiz&&show_icons=true&title_color=5596f0&icon_color=4d72f2&text_color=343434&bg_color=fffefe">
+ <img src="https://github-readme-stats.vercel.app/api?username=samitiz&&show_icons=true&&theme=dark&background=000000title_color=5596f0&icon_color=4d72f2&text_color=343434&bg_color=fffefe">
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samitiz&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="samitiz" /></p>
