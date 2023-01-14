@@ -32,9 +32,9 @@
   <hr/>
 <!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
   <h3 align="left">Stats</h3>
- <img src="https://github-readme-stats.vercel.app/api?username=samitiz&&show_icons=true&title_color=ffffff&icon_color=4d72f2&text_color=9f9f9f&bg_color=151515">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samitiz&&show_icons=true&title_color=ffffff&icon_color=4d72f2&text_color=9f9f9f&bg_color=151515">
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samitiz&theme=dark&background=000000&show_icons=true&locale=en" alt="samitiz" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=samitiz&theme=dark&background=000000&show_icons=true&locale=en" alt="samitiz" /></p>
   
   <br/>
   <hr/>
