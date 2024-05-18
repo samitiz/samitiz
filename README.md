@@ -17,8 +17,8 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   <h3 align="left">About me</h3>
   
-  - <a href="http://usamamalook.me/"> PORTFOLIO</a>
-  - <a href="http://usamamalook.me/"> RESUME</a>
+  - <a href="http://usamamalook.tech/"> PORTFOLIO</a>
+  - <a href="http://usamamalook.tech/"> RESUME</a>
   
   <hr/>
 <!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
