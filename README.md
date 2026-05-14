@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-usamamalook.com-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](http://usamamalook.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-usamamalook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamamalook)
 [![Twitter](https://img.shields.io/badge/Twitter-usama__malook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/usama_malook)
-[![Resume](https://img.shields.io/badge/Resume-View-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1T5hapHoVo8HiLzb6dLLVDb9RxTlvRXCX/view?usp=drive_link)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samitiz&label=Profile+Views&color=6366f1&style=flat)
 
@@ -22,7 +21,6 @@ I'm a Software Engineer with 4+ years of experience building robust, scalable we
 - 🏗️ Building scalable, maintainable systems with modern tooling
 - 🤝 Available for collaboration **15 hours/day** (PST)
 - 📍 Based in Lahore, Pakistan
-- 📄 [View my resume](https://drive.google.com/file/d/1T5hapHoVo8HiLzb6dLLVDb9RxTlvRXCX/view?usp=drive_link)
 
 ---
 
