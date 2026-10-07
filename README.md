@@ -1,65 +1,37 @@
-<div align="center">
+<a href="https://usamamalook.com"><img src="assets/banner.png" alt="Usama Malook — AI Engineer" width="100%"></a>
 
-# Hey, I'm Usama 👋
+### AI engineer building agent platforms, MCP systems and voice AI that run in production.
 
-**Software Engineer · 4+ Years · Frontend & Backend**
+Full Stack AI Engineer at **Hyly.AI**, building autonomous agent automation on MCP with coding agents as my daily workflow. Before that I led a team of five at **Dubizzle Labs** across CRM, real-time messaging and voice AI. Five years shipping software from Lahore, Pakistan.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-usamamalook.com-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](http://usamamalook.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-usamamalook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamamalook)
-[![Twitter](https://img.shields.io/badge/Twitter-usama__malook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/usama_malook)
-
-![Profile Views](https://komarev.com/ghpvc/?username=samitiz&label=Profile+Views&color=6366f1&style=flat)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-usamamalook.com-ff3b1d?style=for-the-badge&labelColor=08080a)](https://usamamalook.com) [![Résumé](https://img.shields.io/badge/Résumé-PDF-ff3b1d?style=for-the-badge&labelColor=08080a)](https://usamamalook.com/usama-malook-resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-usamamalook-ff3b1d?style=for-the-badge&labelColor=08080a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamamalook/) [![Email](https://img.shields.io/badge/Email-usamasam687%40gmail.com-ff3b1d?style=for-the-badge&labelColor=08080a&logo=gmail&logoColor=white)](mailto:usamasam687@gmail.com)
 
 ---
 
-## About Me
+### Selected work
 
-I'm a Software Engineer with 4+ years of experience building robust, scalable web and mobile applications. I specialise in **React/TypeScript** on the frontend and **Node.js/Express** on the backend — from architecture to deployment.
+Most of my work lives in private company repositories, so each system below links to a written case study instead.
 
-- 🏗️ Building scalable, maintainable systems with modern tooling
-- 🤝 Available for collaboration **15 hours/day** (PST)
-- 📍 Based in Lahore, Pakistan
+| System | What it does | In production |
+|---|---|---|
+| **[Autonomous Wiki Sync](https://usamamalook.com/work/wiki)** · Hyly.AI | Self-updating docs that re-sync Notion and source repos on every change, serving each team its own format | Shipped in 72 hours with Claude Code |
+| **[AI Command Center](https://usamamalook.com/work/mcp)** · Dubizzle Labs | MCP platform putting 3 CRM products behind one AI client, with permissions routed through each product's own auth | 3 CRMs → 1 client, shipped in a week |
+| **[Echo](https://usamamalook.com/work/echo)** · Dubizzle Labs | AI telesales voice agent: streaming speech-to-text, a LangChain dialogue engine and post-call prompt analysis | 1,000+ calls a day · 95% intent accuracy |
+| **[Loom](https://usamamalook.com/work/loom)** · Dubizzle Labs | Multi-tenant WhatsApp and email platform with Socket.IO, Redis clustering and at-least-once RabbitMQ delivery | 5,000+ conversations a day · 10+ brands |
+| **[SmartDoc](https://usamamalook.com/work/smartdoc)** · Logiks Dev | OCR pipeline with OpenCV preprocessing and a TensorFlow CNN classifying 10+ document types | 500+ documents a day · 98% extraction |
 
----
+### Writing
 
-## Tech Stack
+- **[Route permissions, never copy them](https://usamamalook.com/blog/route-permissions-never-copy-them)**: the one decision behind putting an AI client in front of three CRMs.
+- **[The agent count is not the architecture](https://usamamalook.com/blog/the-agent-count-is-not-the-architecture)**: why a four-agent pipeline works because of its handoffs, not its size.
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+### Stack
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**AI and agents** · LLM agents, Model Context Protocol, multi-agent systems, RAG, LangChain, OpenAI API, Whisper, ElevenLabs, Claude Code<br>
+**Backend** · Python, TypeScript, Node.js, NestJS, FastAPI, WebSockets, RabbitMQ, Redis<br>
+**Data and cloud** · PostgreSQL, MySQL, Elasticsearch, AWS, GCP, Docker, GitHub Actions<br>
+**Frontend** · React, Next.js
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samitiz&show_icons=true&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&bg_color=0d1117&border_color=1e2436&hide_border=false&count_private=true" alt="GitHub Stats" />
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=samitiz&layout=compact&title_color=6366f1&text_color=e2e8f0&bg_color=0d1117&border_color=1e2436&hide_border=false" alt="Top Languages" />
-
-</div>
-
----
-
-## Let's Connect
-
-I'm always open to interesting projects, collaborations, or a good engineering discussion.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-usamamalook.com-6366f1?style=for-the-badge)](http://usamamalook.com/)
-[![Email](https://img.shields.io/badge/📬_Email-Reach_Out-22c55e?style=for-the-badge)](mailto:usama@usamamalook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamamalook)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usama_malook)
+<sub>Building something that has to work in production? Write to me at <a href="mailto:usamasam687@gmail.com">usamasam687@gmail.com</a>.</sub>
